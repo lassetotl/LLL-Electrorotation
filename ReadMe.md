@@ -16,7 +16,7 @@ Numpy array containing 108 points of rpm data from three rotation experiments wi
 
 ### HeLa Rotation LLL.ipynb
 
-Jupyter notebook containing the data and analysis of the initial HeLa rotation experiments performed by us 2022-2023. Slightly outdated.
+Jupyter notebook containing the data and analysis of the initial HeLa rotation experiments performed by us 2022-2023. The aim of the HeLa experiments were to prove that our experimental setup gave reproducible results (https://wiki.uio.no/mn/fysikk/laglivlab/index.php/15.02.23). Slightly outdated.
 
 ### Rotation_Spectra.py
 
